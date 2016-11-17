@@ -1,0 +1,20 @@
+{
+  "name": "nodeconf-isomorphic-workshop",
+  "version": "1.0.0",
+  "description": "Step-by-step walkthrough for the Isomorphic workshop (https://2016.nodeconf.com.ar/workshops.html#vazquez)",
+  "repository": {
+    "url": "https://github.com/nanovazquez/nodeconf-isomorphic-workshop",
+    "type": "git"
+  },
+  "author": "nanovazquez <marianodvazquez@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.1",
+    "eslint-plugin-react": "^6.7.1"
+  }
+}

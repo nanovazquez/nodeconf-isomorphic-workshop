@@ -1,0 +1,13 @@
+{
+  "name": "ssr-simple-app",
+  "version": "1.0.0",
+  "description": "A very simple implementation of server-side React rendering",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^13.1.0",
+    "literalify": "^0.4.0",
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0"
+  }
+}

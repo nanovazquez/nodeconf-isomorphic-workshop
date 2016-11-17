@@ -1,0 +1,20 @@
+.home {
+  width: 850px;
+  margin: 0 auto;
+}
+
+.header {
+  color: #bbdc2f;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #000;
+}
+
+.schedules {
+  display: flex;
+  flex-direction: column;
+}
+
+.tabs {
+  display: flex;
+}
