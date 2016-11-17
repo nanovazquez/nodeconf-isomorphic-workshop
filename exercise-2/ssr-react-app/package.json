@@ -1,0 +1,18 @@
+{
+  "name": "next-react-app",
+  "version": "1.0.0",
+  "description": "A simple nextjs application that showcases products of the Mulesoft ecosystem",
+  "main": "pages/index.js",
+  "author": "nanovazquez",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^1.1.1",
+    "react-redux": "^4.4.6",
+    "react-star-rating": "^1.4.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
