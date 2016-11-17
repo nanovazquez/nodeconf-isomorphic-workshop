@@ -71,10 +71,9 @@ The final result will be a fully functional isomorphic app that will handle the 
   var props = { items: ['Item 0', 'Item 1', 'Item 2', 'Item 3'] };
   ```
 
-> **Note:** note that this can be fetched asynchronously from an API or a database.
+  > **Note:** note that this can be fetched asynchronously from an API or a database.
 
-1. Now it's time to wite the code that will generate the HTML sent to the client. For that, we will use **ReactDOMServer** and a few simple functions to create a proper HTML file.
-Paste the following code:
+1. Now it's time to wite the code that will generate the HTML sent to the client. For that, we will use **ReactDOMServer** and a few simple functions to create a proper HTML file. Paste the following code:
 
   ```js
   var html = ReactDOMServer.renderToStaticMarkup(body(null,
@@ -141,7 +140,7 @@ Paste the following code:
     }
   ```
 
-The first thing we need to do is define the proper header. In this case, we are going to send javascript:
+  The first thing we need to do is define the proper header. In this case, we are going to send javascript:
 
   ```js
   res.setHeader('Content-Type', 'text/javascript')
