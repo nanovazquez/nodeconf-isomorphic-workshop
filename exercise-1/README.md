@@ -1,5 +1,7 @@
 ## Exercise 1: Server side rendering with React
 
+> **Note:** for more information, see the [slides](https://slides.com/nanovazquez/workshop-isomorphic-apps/).
+
 Now that we know how a client-side app works, it's time to make some changes to have an Isomorphic app. *Why isomorphic?* Because we want to handle the initial rendering on the server-side, allowing the app to continue working in the client-side as usual for the rest of the interactions.
 
 We will take care of the following considerations:

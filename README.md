@@ -4,7 +4,7 @@ In this workshop, we are going to walk through the steps to create an Isomorphic
 
 The workshop is divided into different stages:
 
-1. Introduction: what is Isomorphic, Universal, server-side app and client-side app
+1. [Introduction: what is Isomorphic, Universal, server-side app and client-side app](https://slides.com/nanovazquez/workshop-isomorphic-apps/)
 1. Exercise 0: Client-side app using React + Redux
 1. Exercise 1: Server side rendering with React
 1. Exercise 2: SEO
